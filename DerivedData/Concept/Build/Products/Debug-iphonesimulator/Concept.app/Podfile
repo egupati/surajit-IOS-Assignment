@@ -1,0 +1,9 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, "6.0"
+xcodeproj 'Concept'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target "Concept" do
+
+pod 'PureLayout'
+end
